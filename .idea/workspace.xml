@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f5ea4dcb-a530-44a8-acbc-6a6d9447c861" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/systems/777.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/systems/css/main_style.css" beforeDir="false" afterPath="$PROJECT_DIR$/systems/css/main_style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/systems/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/systems/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/systems/js/three.js" beforeDir="false" afterPath="$PROJECT_DIR$/systems/js/three.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/systems" />
+  </component>
+  <component name="ProjectId" id="1Y1CJ6obRM4xod2mPD7MYL9qA1J" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5ea4dcb-a530-44a8-acbc-6a6d9447c861" name="Default Changelist" comment="" />
+      <created>1582100639509</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582100639509</updated>
+      <workItem from="1586336463312" duration="567000" />
+      <workItem from="1586353038980" duration="601000" />
+      <workItem from="1586411127960" duration="1483000" />
+      <workItem from="1586516626627" duration="663000" />
+      <workItem from="1586582006884" duration="2000000" />
+      <workItem from="1586615643176" duration="1035000" />
+      <workItem from="1586661210961" duration="85000" />
+      <workItem from="1586683829768" duration="2369000" />
+      <workItem from="1586936101232" duration="4310000" />
+      <workItem from="1586953163465" duration="5581000" />
+      <workItem from="1587019455093" duration="5644000" />
+      <workItem from="1587109809857" duration="7024000" />
+      <workItem from="1587198618477" duration="8795000" />
+      <workItem from="1587266123423" duration="1206000" />
+      <workItem from="1587301910223" duration="1577000" />
+      <workItem from="1587378354948" duration="1267000" />
+      <workItem from="1587437102268" duration="11726000" />
+      <workItem from="1590369780468" duration="657000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1587113086554">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1587113086554" />
+  </component>
+</project>
