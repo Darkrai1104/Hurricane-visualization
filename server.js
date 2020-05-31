@@ -196,8 +196,9 @@ app.get('/getmodeldata',function(req,res){
     let minvalue =req.query.min
     let maxvalue =req.query.max
     let hour =req.query.hour
+    let attr=req.query.attr
     console.log("hour:",hour)
-    var file = 'D:/webgl/JSON/model/p/'+String(hour)+'.json';
+    var file = 'D:/webgl/JSON/model/'+attr+'/'+String(hour)+'.json';
     //console.log(file)
     fs.readFile(file, 'utf-8', function(err, data) {
         var data=JSON.parse(data)
